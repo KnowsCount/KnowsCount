@@ -3,7 +3,7 @@
  * @Date: 2020-12-07 21:07:49
  * @Author: KnowsCount
  * @Github: https://github.com/KnowsCount/NKCS-Storage
- * @LastEditTime: 2020-12-07 21:27:08
+ * @LastEditTime: 2020-12-08 09:44:01
  * @FilePath: /KnowsCount/README.md
 -->
 
@@ -24,7 +24,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="KnowsCount.cc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](docs.knowscount.cc)
+[<img align="left" alt="KnowsCount.cc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://docs.knowscount.cc)
 [<img align="left" alt="KnowsCount | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/uc44-niv813gigsktolkwqtq?view_as=subscriber)
 [<img align="left" alt="KnowsCount | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/countknows)
 [<img align="left" alt="KnowsCount | Bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />](https://space.bilibili.com/498871842)
