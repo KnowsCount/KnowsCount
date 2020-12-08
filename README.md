@@ -3,11 +3,11 @@
  * @Date: 2020-12-07 21:07:49
  * @Author: KnowsCount
  * @Github: https://github.com/KnowsCount/NKCS-Storage
- * @LastEditTime: 2020-12-08 09:44:01
+ * @LastEditTime: 2020-12-08 10:18:47
  * @FilePath: /KnowsCount/README.md
 -->
 
-### Hi there, I'm Chris - aka [KnowsCount](www.github.com/knowscount) 👋
+### Hi there, I'm Chris - aka [KnowsCount](https://www.github.com/knowscount) 👋
 
 [![Website](https://img.shields.io/website?label=knowscount.cc&style=for-the-badge&url=https%3A%2F%2Fdocs.knowscount.cc)](https://docs.knowscount.cc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KnowsCount?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/countknows)
