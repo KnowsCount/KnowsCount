@@ -3,7 +3,7 @@
  * @Date: 2020-12-07 21:07:49
  * @Author: KnowsCount
  * @Github: https://github.com/KnowsCount/NKCS-Storage
- * @LastEditTime: 2020-12-08 10:18:47
+ * @LastEditTime: 2020-12-08 10:35:19
  * @FilePath: /KnowsCount/README.md
 -->
 
@@ -14,10 +14,10 @@
 
 ## I'm a Student, Reader, Front end Developer, and Gamer!!
 
--   🔭 This is my blog: [docs.knowscount.cc](https://docs.knowscount.cc)!
--   🌱 I’m currently learning everything 🤣
--   👯 I’m looking forward to collaborate with other content creators
--   🥅 2021 Goals:
+-   📖 This is my blog: [docs.knowscount.cc](https://docs.knowscount.cc)!
+-   🌱 I’m currently learning everything 🌝
+-   🤝 I’m looking forward to collaborate with other content creators
+-   📌 2021 Goals:
     -   Get 100 stars
     -   Become Arctic Code Vault Contributor
     -   Beome familiar with TensorFlow
@@ -56,3 +56,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://docs.knowscount.cc)
+
+---
+
+### 📈 GitHub Stats
+
+![KnowsCount's github stats](https://github-readme-stats.vercel.app/api?username=KnowsCount&count_private=true&show_icons=true)
