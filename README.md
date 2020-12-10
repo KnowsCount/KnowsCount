@@ -55,11 +55,11 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence is the final verdict](https://docs.knowscount.cc/?p=560)
-- [记十月二六归途的所见。](https://docs.knowscount.cc/?p=545)
-- [梦死掉。](https://docs.knowscount.cc/?p=542)
-- [在译文时候的想说。](https://docs.knowscount.cc/?p=534)
-- [English Writing – Survival](https://docs.knowscount.cc/?p=149)
+- [Artificial Intelligence is the final verdict](http://docs.knowscount.cc/?p=560)
+- [记十月二六归途的所见。](http://docs.knowscount.cc/?p=545)
+- [梦死掉。](http://docs.knowscount.cc/?p=542)
+- [在译文时候的想说。](http://docs.knowscount.cc/?p=534)
+- [English Writing – Survival](http://docs.knowscount.cc/?p=149)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://docs.knowscount.cc)
