@@ -16,7 +16,7 @@
 
 -   📖 This is my blog: [docs.knowscount.cc](https://docs.knowscount.cc)!
 -   🌱 I’m currently learning everything 🌝
--   🤝 I’m looking forward to collaborate with other content creators
+-   🤝 I’m looking forward to collaborating with other content creators
 -   📌 2021 Goals:
     -   Get 100 stars
     -   Become Arctic Code Vault Contributor
