@@ -55,11 +55,7 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence is the final verdict](http://docs.knowscount.cc/?p=560)
-- [记十月二六归途的所见。](http://docs.knowscount.cc/?p=545)
-- [梦死掉。](http://docs.knowscount.cc/?p=542)
-- [在译文时候的想说。](http://docs.knowscount.cc/?p=534)
-- [English Writing – Survival](http://docs.knowscount.cc/?p=149)
+- [How this site was born 👶](https://blog.knowscount.vercel.app/how-this-site-was-made/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
