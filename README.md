@@ -62,7 +62,7 @@
 - [English Writing – Survival](http://docs.knowscount.cc/?p=149)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://docs.knowscount.cc)
+➡️ [more blog posts...](https://blog.knowscount.vercel.app)
 
 ---
 
