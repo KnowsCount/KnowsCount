@@ -55,8 +55,8 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [👶 How this site was born](https://blog.knowscount.vercel.app/how-this-site-was-made/)
 - [⚛︎ KnowsCount’s ReactJS Tutorial - Intro](https://blog.knowscount.vercel.app/react-tutorial/)
+- [👶 How this site was born](https://blog.knowscount.vercel.app/how-this-site-was-made/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
