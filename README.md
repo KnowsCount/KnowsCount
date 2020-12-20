@@ -55,6 +55,7 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Artificial Intelligence is the Final Verdict](https://blog.knowscount.vercel.app/artificial-intelligence-is-the-final-verdict/)
 - [⚛︎ KnowsCount’s ReactJS Tutorial - Intro](https://blog.knowscount.vercel.app/react-tutorial/)
 - [👶 How this site was born](https://blog.knowscount.vercel.app/how-this-site-was-made/)
 <!-- BLOG-POST-LIST:END -->
