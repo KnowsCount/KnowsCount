@@ -55,7 +55,8 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [✒️ The Upstart Crows](https://blog.knowscount.vercel.app/shakaspeare-community/)
+- [✒️ 冬——随笔](https://blog.knowscount.vercel.app/winter-memo/)
+- [✒️ The Upstart Crows](https://blog.knowscount.vercel.app/shakespeare-community/)
 - [⚛︎ ReactJS Tutorial - Intro](https://blog.knowscount.vercel.app/react-tutorial/)
 - [🤖 Artificial Intelligence - the Final Verdict](https://blog.knowscount.vercel.app/artificial-intelligence-is-the-final-verdict/)
 - [👶 How this site was made](https://blog.knowscount.vercel.app/how-this-site-was-made/)
