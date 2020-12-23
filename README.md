@@ -55,11 +55,11 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2020 Christmas Journal 1](https://blog.knowscount.vercel.app/2020-christmas-journal-1/)
-- [✒️ 冬——随笔](https://blog.knowscount.vercel.app/winter-memo/)
-- [✒️ The Upstart Crows](https://blog.knowscount.vercel.app/shakespeare-community/)
-- [⚛︎ ReactJS Tutorial - Intro](https://blog.knowscount.vercel.app/react-tutorial/)
-- [🤖 Artificial Intelligence - the Final Verdict](https://blog.knowscount.vercel.app/artificial-intelligence-is-the-final-verdict/)
+- [🎄 2020 Christmas Journal 1](https://blog.knowscount.cc/2020-christmas-journal-1/)
+- [✒️ 冬——随笔](https://blog.knowscount.cc/winter-memo/)
+- [✒️ The Upstart Crows](https://blog.knowscount.cc/shakespeare-community/)
+- [⚛︎ ReactJS Tutorial - Intro](https://blog.knowscount.cc/react-tutorial/)
+- [🤖 Artificial Intelligence - the Final Verdict](https://blog.knowscount.cc/artificial-intelligence-is-the-final-verdict/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
