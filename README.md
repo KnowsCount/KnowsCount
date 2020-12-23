@@ -56,7 +56,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [🎄 2020 Christmas Journal 1](https://blog.knowscount.cc/2020-christmas-journal-1/)
-- [✒️ 冬——随笔](https://blog.knowscount.cc/winter-memo/)
+- [✏️ 冬——随笔](https://blog.knowscount.cc/winter-memo/)
 - [✒️ The Upstart Crows](https://blog.knowscount.cc/shakespeare-community/)
 - [⚛︎ ReactJS Tutorial - Intro](https://blog.knowscount.cc/react-tutorial/)
 - [🤖 Artificial Intelligence - the Final Verdict](https://blog.knowscount.cc/artificial-intelligence-is-the-final-verdict/)
