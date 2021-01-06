@@ -14,7 +14,7 @@
 
 ## I'm a Student, Reader, Front-end Developer, and Gamer!!
 
--   📖 This is my blog: [docs.knowscount.cc](https://docs.knowscount.cc)!
+-   📖 This is my blog: [blog.knowscount.cc](https://blog.knowscount.cc)!
 -   🌱 I’m currently learning everything 🌝
 -   🤝 I’m looking forward to collaborating with other content creators
 -   📌 2021 Goals:
