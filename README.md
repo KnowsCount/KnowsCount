@@ -9,7 +9,7 @@
 
 ### Hi there, I'm Chris - aka [KnowsCount](https://www.github.com/knowscount) 👋
 
-[![Website](https://img.shields.io/website?label=knowscount.cc&style=for-the-badge&url=https%3A%2F%2Fdocs.knowscount.cc)](https://docs.knowscount.cc)
+[![Website](https://img.shields.io/website?label=knowscount.cc&style=for-the-badge&url=https%3A%2F%2Fblog.knowscount.cc)](https://blog.knowscount.cc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KnowsCount?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/knowscount)
 
 ## I'm a Student, Reader, Front-end Developer, and Gamer!!
