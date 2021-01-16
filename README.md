@@ -55,11 +55,11 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🖲 逃离信息茧房 - CyberV](https://blog.knowscount.cc/info-cocoons/)
 - [🔮 2021 Christmas Journal 2](https://blog.knowscount.cc/2021-christmas-journal-2/)
 - [📖 故事接龙平台的版本控制实现](https://blog.knowscount.cc/storyPlatform1/)
 - [🎄 2020 Christmas Journal 1](https://blog.knowscount.cc/2020-christmas-journal-1/)
 - [✏️ 冬——随笔](https://blog.knowscount.cc/winter-memo/)
-- [✒️ The Upstart Crows](https://blog.knowscount.cc/shakespeare-community/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
