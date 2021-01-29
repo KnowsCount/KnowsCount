@@ -55,7 +55,7 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Google Forcing us To Use Chrome?!](https://blog.knowscount.cc/google-forces-to-use-chrome/)
+- [🌐 Forcing us To Use Chrome?!](https://blog.knowscount.cc/google-forces-to-use-chrome/)
 - [📕 The Eyeless.](https://blog.knowscount.cc/the-eyeless/)
 - [🖲 逃离信息茧房 - CyberV](https://blog.knowscount.cc/info-cocoons/)
 - [🔮 2021 Christmas Journal 2](https://blog.knowscount.cc/2021-christmas-journal-2/)
