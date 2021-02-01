@@ -55,11 +55,11 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Forcing us To Use Chrome?!](https://blog.knowscount.cc/google-forces-to-use-chrome/)
+- [Starting Startups: What to Ponder](https://blog.knowscount.cc/starting-startups-what-to-think/)
+- [🌐 Forcing us to Use Chrome?!](https://blog.knowscount.cc/google-forces-to-use-chrome/)
 - [📕 The Eyeless.](https://blog.knowscount.cc/the-eyeless/)
 - [🖲 逃离信息茧房 - CyberV](https://blog.knowscount.cc/info-cocoons/)
 - [🔮 2021 Christmas Journal 2](https://blog.knowscount.cc/2021-christmas-journal-2/)
-- [📖 故事接龙平台的版本控制实现](https://blog.knowscount.cc/storyPlatform1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
