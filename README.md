@@ -55,7 +55,7 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting Startups: What to Ponder](https://blog.knowscount.cc/starting-startups-what-to-think/)
+- [🤔 Tips for Starting Startups](https://blog.knowscount.cc/starting-startups-what-to-think/)
 - [🌐 Forcing us to Use Chrome?!](https://blog.knowscount.cc/google-forces-to-use-chrome/)
 - [📕 The Eyeless.](https://blog.knowscount.cc/the-eyeless/)
 - [🖲 逃离信息茧房 - CyberV](https://blog.knowscount.cc/info-cocoons/)
