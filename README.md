@@ -18,8 +18,7 @@
 -   🌱 I’m currently learning everything 🌝
 -   🤝 I’m looking forward to collaborating with other content creators
 -   📌 2021 Goals:
-    -   Get 100 stars
-    -   Become Arctic Code Vault Contributor
+    -   Get >=100 stars
     -   Beome familiar with TensorFlow
 
 ### Connect with me:
