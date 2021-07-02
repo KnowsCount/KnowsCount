@@ -54,11 +54,11 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [为什么我不用 Typescript](https://blog.knowscount.cc/typescript/)
+- [🚀 Summer Vacation!](https://blog.knowscount.cc/summer-vacation/)
+- [💣 为什么我不用 Typescript](https://blog.knowscount.cc/typescript/)
 - [🤒 bitter lesson installing BBRPlus](https://blog.knowscount.cc/bitter-lesson-installing-bbrplus/)
 - [💰 My First Cryptocurrencies](https://blog.knowscount.cc/my-first-cryptocurrencies/)
 - [🕵️‍♂️ Why is Invitation-only Winning?](https://blog.knowscount.cc/why-is-invitation-only-winning/)
-- [🤔 Tips for Starting Startups](https://blog.knowscount.cc/starting-startups-what-to-think/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
