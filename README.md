@@ -54,11 +54,11 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An Epigram](https://blog.knowscount.cc/an-epigram/)
+- [💻 Deploying code-server](https://blog.knowscount.cc/deploying-code-server/)
+- [🖋 An Epigram](https://blog.knowscount.cc/an-epigram/)
 - [🌞 Fun websites](https://blog.knowscount.cc/fun-websites/)
 - [🚀 Summer Vacation!](https://blog.knowscount.cc/summer-vacation/)
 - [💣 为什么我不用 Typescript](https://blog.knowscount.cc/typescript/)
-- [🤒 bitter lesson installing BBRPlus](https://blog.knowscount.cc/bitter-lesson-installing-bbrplus/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
