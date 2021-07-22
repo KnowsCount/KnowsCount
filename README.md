@@ -54,7 +54,7 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🖋 Poor are the Gift of Poets](https://blog.knowscount.cc/poor-is-the-gift-of-poets/)
+- [🖋 Poor is the Gift of Poets](https://blog.knowscount.cc/poor-is-the-gift-of-poets/)
 - [💻 Deploying code-server](https://blog.knowscount.cc/deploying-code-server/)
 - [🖋 An Epigram](https://blog.knowscount.cc/an-epigram/)
 - [🌞 Fun websites](https://blog.knowscount.cc/fun-websites/)
