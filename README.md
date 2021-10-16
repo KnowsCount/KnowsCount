@@ -54,11 +54,11 @@
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [⚰️ Epitaph of the Past](https://blog.knowscount.cc/epitaph-of-the-past/)
 - [🌇 End of Summer Thoughts](https://blog.knowscount.cc/end-of-summer-thoughts/)
 - [🎸 WSC thoughts](https://blog.knowscount.cc/wsc-thoughts/)
 - [🤫 Quite Quiet](https://blog.knowscount.cc/quite-quiet/)
 - [🖋 Poor is the Gift of Poets](https://blog.knowscount.cc/poor-is-the-gift-of-poets/)
-- [💻 Deploying code-server](https://blog.knowscount.cc/deploying-code-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
