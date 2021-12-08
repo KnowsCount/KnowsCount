@@ -55,7 +55,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [😶 Some Late Thoughts](https://blog.knowscount.cc/some-late-thoughts/)
-- [🌠 I fumbled slowly through my silver case](https://blog.knowscount.cc/i-fumbled-slowly-through-my-silver-case/)
+- [🌠 Epitaph of a Tommy](https://blog.knowscount.cc/i-fumbled-slowly-through-my-silver-case/)
 - [⚰️ Epitaph of the Past](https://blog.knowscount.cc/epitaph-of-the-past/)
 - [🌇 End of Summer Thoughts](https://blog.knowscount.cc/end-of-summer-thoughts/)
 - [🎸 WSC thoughts](https://blog.knowscount.cc/wsc-thoughts/)
