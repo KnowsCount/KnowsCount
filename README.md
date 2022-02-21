@@ -10,10 +10,6 @@
   
 </div>
 
-<br />
-
----
-
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -28,7 +24,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 github stats
 
 <!-- ![KnowsCount's github stats](https://github-readme-stats.vercel.app/api?username=KnowsCount&count_private=true&theme=dark&show_icons=true) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
