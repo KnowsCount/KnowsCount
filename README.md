@@ -1,35 +1,20 @@
-<!--
- * @Description: 编辑。
- * @Date: 2020-12-07 21:07:49
- * @Author: KnowsCount
- * @Github: https://github.com/KnowsCount/NKCS-Storage
- * @LastEditTime: 2020-12-08 10:35:19
- * @FilePath: /KnowsCount/README.md
--->
+![d2wkg3kh24gxbki31cyk_副本](https://user-images.githubusercontent.com/56480008/154952851-3a787f08-926f-4d7b-85ff-e33728a6e520.jpg)
 
-# oi there mate, i am 陈泽尘, aka [KnowsCount](https://www.github.com/knowscount) 👋
+<h1 align="center">🦄 student, coder, writer, gamer 🦄</h1>
+<h3 align="center">oi there mate, wanna connect with me?</h3>
 
-[![Website](https://img.shields.io/website?label=knowscount.cc&style=for-the-badge&url=https%3A%2F%2Fblog.knowscount.cc)](https://blog.knowscount.cc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/KnowsCount?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/knowscount)
-
-## im a student, coder, writer, gamer
-
--   📖 my blog: [blog.knowscount.cc](https://blog.knowscount.cc)!
--   🌱 learning anything 🌝
-
-### connect with me:
-
-[<img align="left" alt="KnowsCount.cc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://docs.knowscount.cc)
-[<img align="left" alt="KnowsCount | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/uc44-niv813gigsktolkwqtq?view_as=subscriber)
-[<img align="left" alt="KnowsCount | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/countknows)
-[<img align="left" alt="KnowsCount | Bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />](https://space.bilibili.com/498871842)
-[<img align="left" alt="KnowsCount | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/knowscount/)
+<div align="center">
+  
+  [![Website](https://img.shields.io/website?label=blog.knowscount.cc&style=for-the-badge&url=https%3A%2F%2Fblog.knowscount.cc)](https://blog.knowscount.cc)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/KnowsCount?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/knowscount)
+  
+</div>
 
 <br />
 
 ---
 
-### 📔 Latest Blog posts
+### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [😶 Some Late Thoughts](https://blog.knowscount.cc/some-late-thoughts/)
@@ -45,4 +30,11 @@
 
 ### 📈 GitHub Stats
 
-![KnowsCount's github stats](https://github-readme-stats.vercel.app/api?username=KnowsCount&count_private=true&theme=dark&show_icons=true)
+<!-- ![KnowsCount's github stats](https://github-readme-stats.vercel.app/api?username=KnowsCount&count_private=true&theme=dark&show_icons=true) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KnowsCount&count_private=true&theme=dark&show_icons=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowscount&theme=dark&layout=compact&exclude_repo=blog" />
+</a>
