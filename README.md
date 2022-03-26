@@ -13,11 +13,11 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [⚗️ To Chemistry](https://blog.knowscount.cc/to-chemistry/)
 - [🎩 The Fallacy of Being ‘Apolitical’](https://blog.knowscount.cc/the-fallacy-of-being-apolitical/)
 - [🤌 The Usage of ‘That Which’](https://blog.knowscount.cc/the-usage-of-that-which/)
 - [😶 Some Late Thoughts](https://blog.knowscount.cc/some-late-thoughts/)
 - [🌠 Epitaph of a Tommy](https://blog.knowscount.cc/i-fumbled-slowly-through-my-silver-case/)
-- [⚰️ Epitaph of the Past](https://blog.knowscount.cc/epitaph-of-the-past/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
