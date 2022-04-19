@@ -13,11 +13,11 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🧳 To a Friend After an Expedition](https://blog.knowscount.cc/to-a-friend-after-an-expedition/)
 - [🥲 Lockdown](https://blog.knowscount.cc/lockdown/)
 - [⚗️ To Chemistry](https://blog.knowscount.cc/to-chemistry/)
 - [🎩 The Fallacy of Being ‘Apolitical’](https://blog.knowscount.cc/the-fallacy-of-being-apolitical/)
 - [🤌 The Usage of ‘That Which’](https://blog.knowscount.cc/the-usage-of-that-which/)
-- [😶 Some Late Thoughts](https://blog.knowscount.cc/some-late-thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
