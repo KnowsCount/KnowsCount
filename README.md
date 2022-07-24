@@ -13,11 +13,11 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🫀 To Emily](https://blog.knowscount.cc/to-emily/)
 - [😲 A Late Dream](https://blog.knowscount.cc/a-late-dream/)
 - [🌕 Dear Queen Moon](https://blog.knowscount.cc/dear-queen-moon/)
 - [🧳 To a Friend on an Expedition](https://blog.knowscount.cc/to-a-friend-after-an-expedition/)
 - [🥲 Lockdown](https://blog.knowscount.cc/lockdown/)
-- [⚗️ To Chemistry](https://blog.knowscount.cc/to-chemistry/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.vercel.app)
