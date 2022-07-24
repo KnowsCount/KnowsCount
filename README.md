@@ -13,11 +13,11 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🫀 To Emily](https://blog.knowscount.cc/to-emily/)
-- [😲 A Late Dream](https://blog.knowscount.cc/a-late-dream/)
-- [🌕 Dear Queen Moon](https://blog.knowscount.cc/dear-queen-moon/)
-- [🧳 To a Friend on an Expedition](https://blog.knowscount.cc/to-a-friend-after-an-expedition/)
-- [🥲 Lockdown](https://blog.knowscount.cc/lockdown/)
+- [🫀 To Emily](https://blog.knowscount.com/to-emily/)
+- [😲 A Late Dream](https://blog.knowscount.com/a-late-dream/)
+- [🌕 Dear Queen Moon](https://blog.knowscount.com/dear-queen-moon/)
+- [🧳 To a Friend on an Expedition](https://blog.knowscount.com/to-a-friend-after-an-expedition/)
+- [🥲 Lockdown](https://blog.knowscount.com/lockdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.com)
