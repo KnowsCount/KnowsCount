@@ -13,11 +13,11 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upon a Wall in West Forest](https://blog.knowscount.com/upon-a-wall-in-west-forest/)
 - [🐲 QingMing](https://blog.knowscount.com/qingming/)
 - [🌳 ‘Should Selfsame Piles our City Growth Must Raise’](https://blog.knowscount.com/should-selfsame-piles-our-city-growth-just-raise/)
 - [🫀 To Emily](https://blog.knowscount.com/to-emily/)
 - [🐉 Pining for Home on Ninth of September](https://blog.knowscount.com/pining-for-home-on-ninth-of-september/)
-- [😲 A Late Dream](https://blog.knowscount.com/a-late-dream/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.com)
