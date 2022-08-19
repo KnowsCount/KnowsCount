@@ -13,7 +13,7 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Upon a Wall in West Forest](https://blog.knowscount.com/upon-a-wall-in-west-forest/)
+- [🌳 Upon a Wall in West Forest](https://blog.knowscount.com/upon-a-wall-in-west-forest/)
 - [🐲 QingMing](https://blog.knowscount.com/qingming/)
 - [🌳 ‘Should Selfsame Piles our City Growth Must Raise’](https://blog.knowscount.com/should-selfsame-piles-our-city-growth-just-raise/)
 - [🫀 To Emily](https://blog.knowscount.com/to-emily/)
