@@ -13,11 +13,11 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [✉️ A Note to Emily](https://blog.knowscount.com/a-note-to-emily/)
 - [🍃 On Seeing a Boston Ivy](https://blog.knowscount.com/on-seeing-a-boston-ivy/)
 - [🌳 Upon a Wall in West Forest](https://blog.knowscount.com/upon-a-wall-in-west-forest/)
 - [🐲 QingMing](https://blog.knowscount.com/qingming/)
 - [🌳 ‘Should Selfsame Piles our City Growth Must Raise’](https://blog.knowscount.com/should-selfsame-piles-our-city-growth-just-raise/)
-- [🫀 To Emily](https://blog.knowscount.com/to-emily/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.com)
