@@ -13,11 +13,11 @@
 ### 📔 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🐈 To a Cat](https://blog.knowscount.com/to-a-cat/)
 - [🥱 Boredom](https://blog.knowscount.com/boredom/)
 - [✉️ A Note to Emily](https://blog.knowscount.com/a-note-to-emily/)
 - [🍃 On Seeing a Boston Ivy](https://blog.knowscount.com/on-seeing-a-boston-ivy/)
 - [🌳 Upon a Wall in West Forest](https://blog.knowscount.com/upon-a-wall-in-west-forest/)
-- [🐲 QingMing](https://blog.knowscount.com/qingming/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.com)
