@@ -15,9 +15,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [🐈 To a Cat](https://blog.knowscount.com/to-a-cat/)
 - [🥱 Boredom](https://blog.knowscount.com/boredom/)
-- [✉️ A Note to Emily](https://blog.knowscount.com/a-note-to-emily/)
-- [🍃 On Seeing a Boston Ivy](https://blog.knowscount.com/on-seeing-a-boston-ivy/)
-- [🌳 Upon a Wall in West Forest](https://blog.knowscount.com/upon-a-wall-in-west-forest/)
+- [📓 Reflection - 25 Sept 2022](https://blog.knowscount.com/reflection-25-sept-2022/)
+- [📓 Reflection - 24 Sept 2022](https://blog.knowscount.com/reflection-24-sept-2022/)
+- [📓 Reflection - 23 Sept 2022](https://blog.knowscount.com/reflection-23-sept-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.knowscount.com)
