@@ -1,6 +1,6 @@
 ![d2wkg3kh24gxbki31cyk](https://user-images.githubusercontent.com/56480008/154952851-3a787f08-926f-4d7b-85ff-e33728a6e520.jpg)
 
-<h1 align="center">🦄 student, coder, writer, gamer 🦄</h1>
+<h1 align="center">🦄 student, writer, coder, gamer 🦄</h1>
 <h3 align="center">oi there mate.</h3>
 
 <div align="center">
